@@ -1,6 +1,7 @@
 # Installation
 
 ### Compiler
+---------------------------------------------------------------------------------------------------------------------------------------
 #### Windows 10
 - Open [MinGW](http://www.mingw.org/) website 
 - Click the download menu on the top right corner, and you will be directed to the download page (https://osdn.net/projects/mingw/downloads/68260/mingw-get-setup.exe/).
@@ -18,6 +19,7 @@
 - Open your terminal.
 - Type ```g++ --version```
 - If it is outputting the version of the compiler, it is success.
+---------------------------------------------------------------------------------------------------------------------------------------
 #### Linux
 - There are two option to install the GNU C/C++ Compiler in Linux, using build-essentials or install g++ package itself
 - Open your terminal.
@@ -27,6 +29,7 @@
 - If it is outputting the version of the compiler, it is success.
 
 ### Install IDE
+---------------------------------------------------------------------------------------------------------------------------------------
 #### Windows 10
 - Dev-C++
   - Open [this](https://sourceforge.net/projects/orwelldevcpp/) link and click the download button. 
@@ -34,6 +37,7 @@
 - Microsoft Visual Studio Code
   - Open [this](https://code.visualstudio.com/Download) link and click the download button. 
   - The installation process is also straightforward, you can click finish until finish.
+---------------------------------------------------------------------------------------------------------------------------------------
 #### Linux
 - Dev-C++
   - As per I am writing this tutorial, it is not recommended to install Dev-C++ on Linux because it is still buggy. I recommend installing Microsoft Visual Studio or Code::Blocks instead.
