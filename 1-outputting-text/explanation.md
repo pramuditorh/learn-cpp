@@ -1,0 +1,8 @@
+- ```using namespace std``` std is a namespace which then tells the compiler to use class/namespace to use it. ```std``` stands for standard as in C++ Standard Library.
+- ```iostream``` stands for "input/output stream" used for receiving an input from our computer and displaying an output.
+- ```endl``` stands for end line. It makes the next printed text will be in the next line.
+- Because we write ```int main``` we also need to write ```return 0``` as a return value (will be more explained later). All we need to know at this time is we write a function, which in this case is ```int main``` and if we write a function we need a return value which is ```return 0```.
+- Always use a ```;```. It tells the compiler that is the end of the syntax.
+- Always use an indentation. It is a convention of all programming languages. It is mandatory.
+- Our program will be write inside the ```main``` function inside the curly brackets.
+- The syntax will be executed by the compiler in order from top to bottom.
