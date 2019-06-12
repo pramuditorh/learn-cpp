@@ -46,3 +46,6 @@
   - Open your terminal.
   - If your distribution is Debian or Ubuntu. Type ```sudo dpkg -i path/to/deb/file```
   - If your distribution is RedHat, Fedora or SUSE. Type ```sudo rpm -i path/to/rpm/file```
+
+
+- For more explanation, please visit (pramuditorh.com)
