@@ -1,0 +1,6 @@
+- String data types is used to store text.
+- If we assign a value in string variable, it must be inside double quote ("some text").
+- We can concatenate string with + (plus) operator.
+- We also can use method when working with strings. 
+- For more explanation, please visit <http://pramuditorh.com>
+- Feel free to ask me at pramuditorh@gmail.com
