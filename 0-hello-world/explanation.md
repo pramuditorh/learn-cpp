@@ -48,4 +48,5 @@
   - If your distribution is RedHat, Fedora or SUSE. Type ```sudo rpm -i path/to/rpm/file```
 
 
-- For more explanation, please visit pramuditorh.com
+- For more explanation, please visit [my site](pramuditorh.com)
+- Feel free to ask me at pramuditorh@gmail.com

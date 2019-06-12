@@ -6,4 +6,5 @@
 - Always use an indentation. It is a convention of all programming languages. It is mandatory.
 - Our program will be write inside the ```main``` function inside the curly brackets.
 - The syntax will be executed by the compiler in order from top to bottom.
-- For more explanation, please visit pramuditorh.com
+- For more explanation, please visit [my site](pramuditorh.com)
+- Feel free to ask me at pramuditorh@gmail.com
